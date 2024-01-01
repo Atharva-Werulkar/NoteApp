@@ -2,7 +2,7 @@
 
 **Never miss a thought again!** 
 
-**Organize your life and ideas effortlessly with note_app, a sleek and intuitive note-taking application powered by ISAR Database.** 
+**Organize your life and ideas effortlessly with Note App, a sleek and intuitive note-taking application powered by ISAR Database.** 
 
 ## Features
 
