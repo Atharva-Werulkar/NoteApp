@@ -12,18 +12,22 @@
 
 
 ## User Interface
+### Light Mode
 <img width="300" height="600" src="https://github.com/Atharva-Werulkar/NoteApp/assets/110187613/d385316c-dc51-427c-96f4-17b57f25f6c1">
 <img width="300" height="600" src="https://github.com/Atharva-Werulkar/NoteApp/assets/110187613/50eeb8e4-fe37-4292-bd51-7783bed2f77d">
 <img width="300" height="600" src="https://github.com/Atharva-Werulkar/NoteApp/assets/110187613/4249f03f-5feb-4b9e-8346-a69b0e2fc3ca">
 <img width="300" height="600" src="https://github.com/Atharva-Werulkar/NoteApp/assets/110187613/dfa9e953-df96-450e-9f0b-d8cba4afba7e">
-
 <img width="300" height="600" src="https://github.com/Atharva-Werulkar/NoteApp/assets/110187613/a74122a6-f36d-4595-b3c0-4c717df40cd3">
-<img width="300" height="600" src="https://github.com/Atharva-Werulkar/NoteApp/assets/110187613/7baa7c75-4e43-46b2-8ccf-7d7d7d971a7b">
-<img width="300" height="600" src="https://github.com/Atharva-Werulkar/NoteApp/assets/110187613/74ff8eec-858c-41d4-9226-74fc7781bc2a">
-<img width="300" height="600" src="https://github.com/Atharva-Werulkar/NoteApp/assets/110187613/668c9dc0-dea5-4e2f-8d92-e76fb0f93914">
+<br>
 
+### Dark Mode
+<img width="300" height="600" src="https://github.com/Atharva-Werulkar/NoteApp/assets/110187613/59fd896f-fccd-48af-b3d8-0a246a7d2eaa">
+<img width="300" height="600" src="https://github.com/Atharva-Werulkar/NoteApp/assets/110187613/668c9dc0-dea5-4e2f-8d92-e76fb0f93914">
 <img width="300" height="600" src="https://github.com/Atharva-Werulkar/NoteApp/assets/110187613/d41f0159-77c5-4e8f-815e-e7ba566792c3">
 <img width="300" height="600" src="https://github.com/Atharva-Werulkar/NoteApp/assets/110187613/56363c61-4101-469f-becc-22752fe0bb7f">
+<img width="300" height="600" src="https://github.com/Atharva-Werulkar/NoteApp/assets/110187613/7baa7c75-4e43-46b2-8ccf-7d7d7d971a7b">
+
+
 
 
 
