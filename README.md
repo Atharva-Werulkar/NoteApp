@@ -1,16 +1,41 @@
-# note_app
+# note_app 
 
-Note Application Using ISAR Database
+**Never miss a thought again!** 
 
-## Getting Started
+**Organize your life and ideas effortlessly with note_app, a sleek and intuitive note-taking application powered by ISAR Database.** 
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- Effortlessly create, edit, and organize notes
+- Enjoy a beautiful and intuitive interface
+- Rely on the power of ISAR Database
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 💻Installation
+
+* Clone the Repository and Change the directory.
+
+```bash
+  flutter pub get
+  flutter run
+```
+    
+## 🧑🏻‍💻Run 
+
+Clone the repository and change directory.
+
+```bash
+  git clone https://github.com/mahesh-bora/ecommerce_app.git
+```
+
+Go to the project directory
+
+```bash
+  cd ecommerce_app
+```
+
+Flutter pub get and run
+```bash
+  flutter pub get
+  flutter run
+```
