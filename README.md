@@ -1,4 +1,4 @@
-# note_app 
+# Note App 
 
 **Never miss a thought again!** 
 
@@ -25,13 +25,13 @@
 Clone the repository and change directory.
 
 ```bash
-  git clone https://github.com/mahesh-bora/ecommerce_app.git
+  git clone https://github.com/Atharva-Werulkar/NoteApp.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd ecommerce_app
+  cd note_app
 ```
 
 Flutter pub get and run
